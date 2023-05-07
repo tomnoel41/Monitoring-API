@@ -1,0 +1,23 @@
+{
+  "name": "monitoring-api",
+  "version": "0.0.1",
+  "description": "Monitoring-API",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomnoel41/Monitoring-API.git"
+  },
+  "author": "Tom NOEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomnoel41/Monitoring-API/issues"
+  },
+  "homepage": "https://github.com/tomnoel41/Monitoring-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ping": "^0.4.4"
+  }
+}
